@@ -1,0 +1,1 @@
+console.log('Falfare static site loaded successfully.');

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "00-the-fool",
+    "name": {
+      "tr": "Joker (Deli)",
+      "en": "The Fool"
+    },
+    "arcana": "major",
+    "number": 0,
+    "keywords": {
+      "tr": [
+        "Yeni Başlangıçlar",
+        "Özgürlük",
+        "Macera"
+      ],
+      "en": [
+        "New Beginnings",
+        "Freedom",
+        "Adventure"
+      ]
+    },
+    "description": {
+      "tr": "Joker, yeni bir yolculuğun, masumiyetin ve spontane kararların simgesidir.",
+      "en": "The Fool represents new beginnings, innocence, and spontaneous action."
+    }
+  },
+  {
+    "id": "01-the-magician",
+    "name": {
+      "tr": "Büyücü",
+      "en": "The Magician"
+    },
+    "arcana": "major",
+    "number": 1,
+    "keywords": {
+      "tr": [
+        "Güç",
+        "Beceri",
+        "Tezahür"
+      ],
+      "en": [
+        "Power",
+        "Skill",
+        "Manifestation"
+      ]
+    },
+    "description": {
+      "tr": "Büyücü, potansiyelinizi gerçeğe dönüştürme gücünü ve odaklanmayı temsil eder.",
+      "en": "The Magician symbolizes resourcefulness, willpower, and turning ideas into reality."
+    }
+  },
+  {
+    "id": "02-the-high-priestess",
+    "name": {
+      "tr": "Azize",
+      "en": "The High Priestess"
+    },
+    "arcana": "major",
+    "number": 2,
+    "keywords": {
+      "tr": [
+        "Sezgi",
+        "Gizem",
+        "İçsel Bilgelik"
+      ],
+      "en": [
+        "Intuition",
+        "Mystery",
+        "Inner Wisdom"
+      ]
+    },
+    "description": {
+      "tr": "Azize, bilinçaltının sesini dinlemeyi ve gizli kalmış bilgileri simgeler.",
+      "en": "The High Priestess signifies intuition, mystery, and listening to your inner voice."
+    }
+  }
+]

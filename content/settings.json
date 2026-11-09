@@ -1,0 +1,28 @@
+{
+  "site_title": {
+    "tr": "Falfare - Tarot & Fal",
+    "en": "Falfare - Tarot & Fortune"
+  },
+  "tagline": {
+    "tr": "Geleceğinize Işık Tutun",
+    "en": "Illuminate Your Future"
+  },
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "nav": {
+    "home": {
+      "tr": "Ana Sayfa",
+      "en": "Home"
+    },
+    "reading": {
+      "tr": "Tarot Falı",
+      "en": "Tarot Reading"
+    },
+    "cards": {
+      "tr": "Kart Anlamları",
+      "en": "Card Meanings"
+    }
+  }
+}

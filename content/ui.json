@@ -1,0 +1,26 @@
+{
+  "select_cards": {
+    "tr": "Falınız için 3 kart seçin",
+    "en": "Choose 3 cards for your reading"
+  },
+  "reveal_button": {
+    "tr": "Yorumla",
+    "en": "Reveal Reading"
+  },
+  "reset_button": {
+    "tr": "Yeniden Başla",
+    "en": "Start Over"
+  },
+  "past": {
+    "tr": "Geçmiş",
+    "en": "Past"
+  },
+  "present": {
+    "tr": "Şimdi",
+    "en": "Present"
+  },
+  "future": {
+    "tr": "Gelecek",
+    "en": "Future"
+  }
+}
